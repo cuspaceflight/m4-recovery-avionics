@@ -1,0 +1,4 @@
+[submodule "agg-kicad"]
+	path = agg-kicad
+	url = https://github.com/adamgreig/agg-kicad/
+	branch = master
